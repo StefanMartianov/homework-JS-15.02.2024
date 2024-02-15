@@ -1,0 +1,39 @@
+.square-one {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+}
+.square-one-updated {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+}
+
+.square-two {
+    width: 200px;
+    height: 200px;
+    background-color:pink;
+}
+
+.square-two-updated {
+    background-color: blue;
+}
+.square-three {
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+
+
+.p {
+color: blue;
+}
+.p1 {
+    color: blue;
+    }
+
+.p2 {
+        color: green;
+    }
